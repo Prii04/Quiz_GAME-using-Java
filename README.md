@@ -137,6 +137,6 @@ This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE
 
 ## Contact
 
-For any questions, suggestions, or feedback, feel free to reach out via email at [ashishofficial231@gmail.com] or open an issue on the GitHub repository.
+For any questions, suggestions, or feedback, feel free to reach out via email at [priyanshu411.mishra@gmail.com] or open an issue on the GitHub repository.
 
 Enjoy the game! 🎮
